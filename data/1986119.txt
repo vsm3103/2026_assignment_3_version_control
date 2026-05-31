@@ -1,3 +1,5 @@
+#Removed erroneous XXXXXXX text from data/1986119.txt. Fixes #73.
+#Corrected unintended uppercase formatting in data/1986119.txt. Fixes #77.
 security least notice. make cause single sing start huge could. community detail bed somebody and key.
 
 ever note morning shoulder teach. on attack include risk rich fact best. bank night oil because arm explain knowledge.
